@@ -9,7 +9,7 @@ lead times,
 manufacturing costs,
 among other metrics.
 
-*This analysis can help inform strategic decision-making and identify areas for improvement in the supply chain operations. For example,
+This analysis can help inform strategic decision-making and identify areas for improvement in the supply chain operations. For example,
 it may be possible to optimize inventory management, 
 reduce waste and inefficiencies,
 improve product quality,
